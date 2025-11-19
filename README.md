@@ -15,6 +15,10 @@ It listens to user commands using the **Web Speech API**, understands them, and 
 - 🖥️ Clean UI inspired by modern AI assistants  
 - 🔁 Always listening mode (optional)
 
+## 🚀 Live Demo
+
+👉 **Click here to use the Jarvis Bot live:**  
+🔗 https://abhirajkumarsingh.github.io/Jarvisbot/
 ---
 
 ## 🛠️ Tech Stack
