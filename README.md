@@ -36,3 +36,41 @@ It listens to user commands using the **Web Speech API**, understands them, and 
 │── /assets (optional)
 
 
+---
+
+## 🎯 How to Use
+
+1. Click the **Microphone** button  
+2. Speak any command (example:  
+   - *"Open Google"*  
+   - *"Play music"*  
+   - *"What is the time?"*  
+3. Jarvis listens and replies with voice output.
+
+---
+
+## 📸 Screenshots
+
+(Add your UI screenshots later if you want)
+
+---
+
+## 🔮 Future Improvements
+
+- Add chatbot API integration (e.g., GPT-based responses)  
+- Add weather, news, jokes API  
+- Add offline recognition capabilities  
+- Improved UI animations and themes
+
+---
+
+## 🙌 Author
+
+**Abhiraj Kumar Singh**  
+A beginner-friendly AI/JS project created for practice and learning.
+
+---
+
+## ⭐ Support  
+If you like this project, consider giving it a **star ⭐** on GitHub!
+
