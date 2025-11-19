@@ -27,3 +27,12 @@ It listens to user commands using the **Web Speech API**, understands them, and 
 
 ## 📦 Project Structure
 
+📁 Jarvis Bot
+│── index.html
+│── style.css
+│── app.js
+│── jarvis.gif
+│── CB LOGO 2 png.png
+│── /assets (optional)
+
+
